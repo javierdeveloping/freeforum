@@ -8,6 +8,8 @@
 
 Check out a live demo at http://13.36.208.152:5000
 
+Uploaded to an instance of AWS EC2 (Ubuntu) where a custom node.js server is running.
+
 Instructions if you download the project:
 
 1) Execute npm install
@@ -20,3 +22,5 @@ Instructions if you download the project:
 8) Enter localhost:5000 (port by default) in your browser
 
 Tech stack: React, web3, Ganache, Truffle, Next.js, Node.js, Solidity
+
+
