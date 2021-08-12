@@ -8,8 +8,6 @@
 
 Check out a live demo at http://13.36.208.152:5000
 
-
-
 Instructions if you download the project:
 
 1) Execute npm install
@@ -20,3 +18,5 @@ Instructions if you download the project:
 6) Insert in factory.js the address of your deployed instance
 7) Run server: npm run dev (it will run on development mode, for production purposes check out https://nextjs.org/docs)
 8) Enter localhost:5000 (port by default) in your browser
+
+Tech stack: React, web3, Ganache, Truffle, Next.js, Node.js, Solidity
