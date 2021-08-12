@@ -21,6 +21,6 @@ Instructions if you download the project:
 7) Run server: npm run dev (it will run on development mode, for production purposes check out https://nextjs.org/docs)
 8) Enter localhost:5000 (port by default) in your browser
 
-Tech stack: React, web3, Ganache, Truffle, Next.js, Node.js, Solidity
+Tech stack: React, web3, Ganache, Truffle, Next.js, Node.js, Solidity, Mocha
 
 
